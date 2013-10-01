@@ -1,9 +1,9 @@
 
 ##################################
-# fichier l-espion-est-demasque--entrainement.py
+# fichier l-espion-est-demasque--validation.py
 # nom de l'exercice :  L'espion est démasqué !
 # url : http://www.france-ioi.org/algo/task.php?idChapter=648&idTask=0&sTab=task&iOrder=14
-# type : entrainement
+# type : validation
 #
 # Nom du chapitre : 
 #

@@ -1,9 +1,9 @@
 
 ##################################
-# fichier la-grande-fete-entrainement.py
-# nom de l'exercice :  La grande fête
-# url : http://www.france-ioi.org/algo/task.php?idChapter=648&idTask=0&sTab=task&iOrder=11
-# type : entrainement
+# fichier personne-disparue-validation.py
+# nom de l'exercice :  Personne disparue
+# url : http://www.france-ioi.org/algo/task.php?idChapter=648&idTask=0&sTab=task&iOrder=9
+# type : validation
 #
 # Nom du chapitre : 
 #
