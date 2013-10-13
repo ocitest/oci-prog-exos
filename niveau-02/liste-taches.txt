@@ -1,0 +1,53 @@
+
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=3 | 2 | Préparation de l'onguent
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=5 | 4 | Liste de courses
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=7 | 5 | Grand inventaire
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=9 | 6 | Étude de marché
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=10 | 7 | Répartition du poids
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=11 | 8 | Visite de la mine
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=14 | 9 | Journée des cadeaux
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=16 | 11 | Course à trois jambes
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=17 | 12 | Banquet municipal
+chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=18 | 13 | Choix des emplacements
+
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=3 | 2b | Petites fiches et gros travail
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=5 | 2d | Priorité alphabétique
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=7 | 2e | Une ligne sur deux
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=9 | 2g | Résumés de livres
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=10 | 2h | Lire ou ne pas lire, telle est la question
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=14 | 3b | Fiches d’inscription
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=16 | 3d | Analyse de fréquence
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=19 | 4b | Impression d’étiquettes
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=20 | 4c | Écriture en miroir
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=22 | 4e | Inscription d’étudiants
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=23 | 4f | ngms sns vlls
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=24 | 4g | La bataille
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=26 | 4i | Analyse d’une langue
+chapitre-3-chaines-de-caracteres | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=595&idTask=0&sTab=task&iOrder=28 | 4k | Sans espaces
+
+chapitre-4-fonctions | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=509&idTask=0&sTab=task&iOrder=1 | 1 | Code secret deux fois
+chapitre-4-fonctions | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=509&idTask=0&sTab=task&iOrder=3 | 2 | Deux codes secrets
+chapitre-4-fonctions | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=509&idTask=0&sTab=task&iOrder=5 | 3 | Deux rectangles
+chapitre-4-fonctions | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=509&idTask=0&sTab=task&iOrder=7 | 4 | Fonction min
+chapitre-4-fonctions | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=509&idTask=0&sTab=task&iOrder=9 | 5 | Distance
+chapitre-4-fonctions | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=509&idTask=0&sTab=task&iOrder=13 | 6 | Formes creuses
+chapitre-4-fonctions | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=509&idTask=0&sTab=task&iOrder=14 | 7 | Convertisseur d'unités
+
+chapitre-2-decouverte-tableaux | cours | http://www.france-ioi.org/algo/course.php?idChapter=651&idCourse=0&iOrder=0 | 1 | La boucle "for"
+chapitre-2-decouverte-tableaux | cours | http://www.france-ioi.org/algo/course.php?idChapter=651&idCourse=0&iOrder=4 | 3 | Accès en dehors du tableau
+chapitre-2-decouverte-tableaux | cours | http://www.france-ioi.org/algo/course.php?idChapter=651&idCourse=0&iOrder=15 | 10 | Affichage simplifié
+chapitre-2-decouverte-tableaux | cours | http://www.france-ioi.org/algo/course.php?idChapter=651&idCourse=0&iOrder=19 | 14 | Tableaux et indices négatifs
+chapitre-2-decouverte-tableaux | cours | http://www.france-ioi.org/algo/course.php?idChapter=651&idCourse=0&iOrder=20 | 15 | Calculer la taille d'un tableau
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=0 | 1 | Absence d'accents
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=1 | 2 | Chaînes complètes
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=2 | a | Lire une ligne de texte
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=4 | c | Comparer deux chaînes de caractères
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=8 | f | Calculer la longueur d’une chaîne de caractères
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=12 | 3 | Mots
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=13 | a | Lire un mot individuellement
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=15 | c | Lire plusieurs choses sur la même ligne : écriture simplifiée
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=17 | 4 | Caractères
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=18 | a | Accéder aux caractères d'une chaîne et les afficher
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=21 | d | Comparer deux caractères
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=25 | h | Déclarer et lire un caractère
+chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=27 | j | Modifier une chaîne existante
