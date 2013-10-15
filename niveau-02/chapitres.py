@@ -81,6 +81,28 @@ def filecontent(task, filename):
                 chapter=task.chapter)
 
 ###############################################################################
+# Fonctions utilitaires
+###############################################################################
+   
+
+def remove_comments(line):
+    # on enlève la partie commentée de la ligne
+    return line.strip().split('#')[0].strip()
+
+def parseLine(line):
+    fields = [f.strip() for f in remove_comments(line).split('|')]
+
+    return Task(*tuple(fields))
+
+def createDirIfNotExists(dir_path):
+    try:
+        os.mkdir(dir_path)
+    except:
+        pass
+
+    return dir_path
+
+###############################################################################
 # Programme principal
 ###############################################################################
    
@@ -105,26 +127,7 @@ def main():
         #)  Lecture du nom du chapitre =        
 
 
-    '''
-
-    def remove_comments(line):
-        # on enlève la partie commentée de la ligne
-        return line.strip().split('#')[0].strip()
-
-    def parseLine(line):
-        fields = [f.strip() for f in remove_comments(line).split('|')]
-
-        return Task(*tuple(fields))
-
-    def createDirIfNotExists(dir_path):
-        try:
-            os.mkdir(dir_path)
-        except:
-            pass
-
-        return dir_path
-
-        
+    '''        
 
     for line in sys.stdin:
 
