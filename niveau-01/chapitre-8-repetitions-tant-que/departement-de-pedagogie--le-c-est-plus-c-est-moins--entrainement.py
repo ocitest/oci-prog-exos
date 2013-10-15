@@ -12,9 +12,7 @@
 # auteur : 
 ##################################
 
-# chargement des modules
+print("salut tout le monde")
 
-
-# mettre votre code ici
-
-
+for i in range(10):
+    print("c'est trop cool !!!")
