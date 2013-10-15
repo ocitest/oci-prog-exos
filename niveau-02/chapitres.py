@@ -82,45 +82,7 @@ def filecontent(task, filename):
 ###############################################################################
 # Programme principal
 ###############################################################################
-
-# def main():
-
-#     for no_chapter in chapter.keys():
-#         tasks = []
-#         cur_chapter = chapter[no_chapter]
-        
-#         chapter_name = cur_chapter[0]
-#         tasks_string = cur_chapter[1]
-
-#         for line in tasks_string.strip().split('\n'):
-#             fields = line.split(' | ')
-#     ##        print('fields', fields)
-
-
-
-#         try:
-#             dir_path = './chapitre-' + str(no_chapter) + '-' + to_file_name(chapter_name)
-#             os.mkdir(dir_path)
-#         except:
-#             pass
-        
-        
-#         os.chdir(dir_path)
-
-#         # créer les fichiers *.py
-#         for task in tasks:
-#             filename = to_file_name(task.title + ' ' + task.type) + '.py'
-
-#             ### ne pas créer de fichier python pour les entrées qui correspondent à des cours
-#             if task.type.lower().strip() == 'cours':
-#     ##            print('suppression de ', task.title)
-#                 continue
-            
-#             with open(filename, 'w', encoding="utf-8") as fd:
-#                 fd.write(filecontent(task, filename))
-#     ##            print("Fichier", dir_path, ' : ', filename, 'type : "'+task.type+'"')
-#         # revenir en arrière
-#         os.chdir('..')    
+   
 
 def main():
     ''' 
