@@ -1,5 +1,5 @@
 clean:
-	rm -rf chapitre-*
+	git rm -rf chapitre-*
 
 donnee:
-	cat liste-taches.txt | python3 chapitres.py 
+	cat liste-taches.txt | python3 chapitres.py

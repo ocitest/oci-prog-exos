@@ -1,4 +1,16 @@
 
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=1 | 1 | Pliage d'une feuille de papier
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=5 | 4 | Conversions de distances
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=7 | 6 | Comparatif de prix
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=8 | 7 | Moyenne des notes
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=16 | 12 | Augmentation de la population
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=17 | 13 | Construction de maisons
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=19 | 15 | Soirée orageuse
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=20 | 16 | Augmentation des taxes
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=18 | 17b | Achat de livres
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=24 | 17c | Une belle récolte
+chapitre-1-nombres-virgules-autres-outils | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=650&idTask=0&sTab=task&iOrder=26 | 17e | La roue de la fortune
+
 chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=3 | 2 | Préparation de l'onguent
 chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=5 | 4 | Liste de courses
 chapitre-2-decouverte-tableaux | obligatoire | http://www.france-ioi.org/algo/task.php?idChapter=651&idTask=0&sTab=task&iOrder=7 | 5 | Grand inventaire
@@ -51,3 +63,15 @@ chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course
 chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=21 | d | Comparer deux caractères
 chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=25 | h | Déclarer et lire un caractère
 chapitre-3-chaines-de-caracteres | cours | http://www.france-ioi.org/algo/course.php?idChapter=595&idCourse=0&iOrder=27 | j | Modifier une chaîne existante
+
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=2 | 2 | Nombre à vigule : point et pas virgule !
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=3 | 3 | Faire des divisions
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=6 | 5 | Lecture de décimaux : erreur possible
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=9 | 8 | Précision des calculs
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=11 | 9 | La notation scientifique
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=14 | 10 | Charger un module
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=15 | 11 | Faire des arrondis (inférieur et supérieur)
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=18 | 14 | Faire des arrondis (au plus proche)
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=21 | 17 | Arithmétique de base
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=22 | 17a | Opérateurs division entière et reste
+chapitre-1-nombres-virgules-autres-outils | cours | href="http://www.france-ioi.org/algo/course.php?idChapter=650&idCourse=0&iOrder=25 | 17d | Priorité des opérateurs division entière et reste

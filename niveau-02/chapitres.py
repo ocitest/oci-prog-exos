@@ -42,6 +42,7 @@ def to_file_name(chapter_name):
         dico[''] = ',:;!?."'
         dico['i'] = 'îÎ'
         dico['o'] = 'ôÔ'
+        dico['-'] = "'`’"
 
         
         for (substitution, caracteres) in dico.items():
@@ -130,7 +131,7 @@ def main():
         try:
             task = parseLine(line)
             path = createDirIfNotExists(task.chapter)
-            filename = to_file_name(task.title + ' ' + task.type) + '.py'
+            filename = to_file_name(task.iOrder + ' ' + task.title + ' ' + task.type) + '.py'
             content = filecontent(task, filename)
 
             if task.type == "cours":
