@@ -12,9 +12,9 @@
 # auteur : 
 ##################################
 
-print("salut tout le monde")
+print("ligne exemple")
 
 for i in range(10):
-    print("c'est trop cool !!!")
+    print(i)
     
-print("une ligne de plus")
+print("au revoir!")
