@@ -6,4 +6,4 @@ push:
 	git push
 
 update:
-	./update
+	./update.sh
